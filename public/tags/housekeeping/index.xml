@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aaron R. Williams</title>
-    <link>/</link>
-    <description>Recent content on Aaron R. Williams</description>
+    <title>Housekeeping on Aaron R. Williams</title>
+    <link>/tags/housekeeping/</link>
+    <description>Recent content in Housekeeping on Aaron R. Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/housekeeping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
 Blogging was how I learned to write. Blogging was how I learned about VCU basketball. It’s how I learned about Medicaid expansion and school funding formulas. Blogging was how I learned.
 Then, I stopped blogging.
 A few months ago, my colleagues Ben Chartoff, Graham MacDonald, and Jon Schwabish asked me to contribute to Data@Urban.</description>
-    </item>
-    
-    <item>
-      <title>colophon</title>
-      <link>/home/colophon/</link>
-      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
-      
-      <guid>/home/colophon/</guid>
-      <description>This website is a personal homepage.
-The site is built with Hugo—a static site generator made with Go. The website source code is available on GitHub. It uses the cocoa theme. The posts are written in Markdown.
-The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
     </item>
     
   </channel>

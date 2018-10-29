@@ -6,20 +6,21 @@
     <description>Recent content in R Markdown on Aaron R. Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/blog/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>I used to blog</title>
+      <link>/blog/i-used-to-blog/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/blog/i-used-to-blog/</guid>
+      <description>I used to blog. I blogged about jazz. I blogged about VCU basketball. I blogged about trying to make RVA a better place and about public policy in Virginia.
+Blogging was how I learned to write. Blogging was how I learned about VCU basketball. It’s how I learned about Medicaid expansion and school funding formulas. Blogging was how I learned.
+Then, I stopped blogging.
+A few months ago, my colleagues Ben Chartoff, Graham MacDonald, and Jon Schwabish asked me to contribute to Data@Urban.</description>
     </item>
     
   </channel>

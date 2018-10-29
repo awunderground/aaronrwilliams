@@ -85,3 +85,5 @@ avatar                 = "img/aaron_williams.jpg" # path to image in static dir 
 # The following are DEPRECATED.
 gatracker              = "XYZ" # use googleAnalytics instead
 initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
