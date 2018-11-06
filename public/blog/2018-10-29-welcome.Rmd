@@ -16,7 +16,7 @@ A few months ago, my colleagues Ben Chartoff, [Graham MacDonald](http://www.grah
 
 This blog will focus on R, statistics, and public policy. There won't be any VCU basketball. OK, there will be some VCU basketball, but only if it relates to  R, statistics, or public policy.
 
-Here are the *current* principles of the blog. 
+Here are the *current* principles of the blog: 
 
 * I will strive to be unrelentingly positive. 
 * Posts will be short and frequent like [Marginal Revolution](https://marginalrevolution.com/). 
