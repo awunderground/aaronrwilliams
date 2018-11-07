@@ -83,7 +83,7 @@ avatar                 = "img/aaron_williams.jpg" # path to image in static dir 
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
 
 # The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
+gatracker              = "UA-128908539-1" # use googleAnalytics instead
 initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
