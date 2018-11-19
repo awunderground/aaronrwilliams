@@ -1,4 +1,4 @@
-baseurl             = "/"
+baseurl             = "https://aaronrwilliams.com/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -11,7 +11,7 @@ title               = "Aaron R. Williams"
 pygmentsuseclasses  = true
 disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-128908539-1"
 
 [permalinks]
 blog  = "blog/:slug/"
