@@ -5,6 +5,8 @@ title = "Home"
 
 +++
 
-My name is Aaron R. Williams. I am a Research Analyst at the Urban Institute. 
+![](/img/jacksons-wedding.jpg)
+
+Hi! I am Aaron R. Williams and I am a Data Scientist at the [Urban Institute](https://www.urban.org/), an R educator, and a sometimes saxophonist. 
 
 
