@@ -5,6 +5,34 @@ title = "Teaching"
 
 +++
 
-I lead the [Urban Institute](https://www.urban.org/) R Users Group and teach around the Washington, D.C. and Richmond, Virginia areas. I offer full-day and half-day on-site workshops about introduction to R and data visualization in R. 
+The R programming language is a powerful tool for data analysis that can help people with experiences ranging from student to CEO, and fields ranging from academic to corporate, find meaning in their data.  
 
-Please contact me at aaronrwilliams100@gmail.com if you want more information or if you would like to schedule a workshop. 
+I offer three unique half- or full-day on-site workshops featuring introduction to R, data visualization in R, and creating R tools for organizations. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. _All workshops and workshop examples can be adjusted to meet the specific needs of your organization._
+
+Workshops begin with a clear motivation, followed by an explanation of the approach and code, and end with hands-on examples. Attendees will understand the why and the how of approaching analytical problems with a programming language like R.  
+
+I bring my experience as a data scientist and public policy researcher to your data. We won’t just copy and paste code until a sensible answer appears. We will work to understand each decision so that attendees leave prepared to tackle questions that haven’t been asked and problems that haven’t yet appeared.  
+
+### Introduction to R 
+
+In this workshop, attendees will install and open R, learn the basic code structure and syntax, and conduct hands-on analysis of real data. This workshop will outline specific methods for project organization, data management, summary statistics, and data visualizations. Attendees will have ample opportunities to put this knowledge to work with hands-on examples.  
+
+### Data Visualization in R 
+
+R is known for its ability to efficiently and effectively visualize data. In this workshop, attendees will learn a comprehensive set of tools for programmatically creating static data visualizations in R using a package called ggplot2. The workshop will teach the theory, called the “grammar of graphics”, behind ggplot2. From this theory, attendees will learn to code data visualization in R. Learning the theory and the code will help attendees build better data visualizations, understand how the components of a data visualization come together, and master and retain ggplot2. 
+
+### Creating R Tools for Organizations 
+
+Organizations can create value by leveraging the power of R at an institutional level. This workshop will introduce and outline how tools like R packages, R markdown, R Shiny, and ggplot2 can be used by organizations to find new insights, consistently communicate their findings, and use programming to get rid of mundane and repetitive tasks. Approaches include creating custom tools and R packages to increase productivity, designing custom ggplot2 themes that match organizational branding, and creating documents and applications that can be used to regularly generate reports. Attendees will leave understanding how R can be used at the organizational level and how to get started building tools for their organization.  
+
+### Other Details 
+
+I will send data and code files to attendees prior to the workshop. These materials will be sent via email and a shared cloud-based storage service such as Google Drive or Dropbox. 
+
+ 
+
+ 
+
+
+
+
