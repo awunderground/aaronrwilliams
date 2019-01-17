@@ -7,7 +7,7 @@ title = "Teaching"
 
 The R programming language is a powerful tool for data analysis that can help people with experiences ranging from student to CEO, and fields ranging from academic to corporate, find meaning in their data.  
 
-I offer three unique half- or full-day on-site workshops featuring introduction to R, data visualization in R, and creating R tools for organizations. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. *All workshops and workshop examples can be adjusted to meet the specific needs of your organization.*
+I offer three unique half- or full-day on-site workshops featuring introduction to R, data visualization in R, and creating R tools for organizations. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. _All workshops and workshop examples can be adjusted to meet the specific needs of your organization._
 
 Workshops begin with a clear motivation, followed by an explanation of the approach and code, and end with hands-on examples. Attendees will understand the why and the how of approaching analytical problems with a programming language like R.  
 
