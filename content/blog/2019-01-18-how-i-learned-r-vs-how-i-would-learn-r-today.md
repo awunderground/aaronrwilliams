@@ -20,7 +20,7 @@ There were many fewer resources for learning R in January 2015 than January 2019
 
 Like thousands of other people, I learned R through the [Coursera Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science). This nine course sequence is a rapid-fire survey of statistical, programming, and data science techniques taught by Roger Peng, Brian Caffo, and Jeff Leek. 
 
-I sought opportunities, mostly unsuccessfully, to use R at my various jobs after college. It didn't improve my R skills but I had lots of opportunities to "pitch" R, which has benefitted me to this day. Instead, I wrote lots of _terrible_ R code on my own time. In one project, I looked at the cost of alcohol at Virginia ABC stores. In another project I plotted the country of finishers at the UCI World Road Championships in Richmond, Virginia. 
+I sought opportunities, mostly unsuccessfully, to use R at my various jobs after college. It didn't improve my R skills but I had lots of opportunities to "pitch" R, which has benefitted me to this day. Instead, I wrote lots of _terrible_ R code on my own time. In one project, I looked at the cost of alcohol at Virginia ABC stores. In another project I plotted the continents of finishers at the UCI World Road Championships in Richmond, Virginia. 
 
 Finally, I accepted a job at the Urban Institute and moved to Washington, D.C.. Truly learning R wasn't possible until I had a venue to tackle applied questions for hours each day. I didn't know R until probably six months after joining the Urban Institute, which was two years after I started programming in R. 
 
@@ -28,11 +28,10 @@ Finally, I accepted a job at the Urban Institute and moved to Washington, D.C.. 
 
 The data science specialization changed my life. In hindsight though, I would start with the tidyverse and narrow the scope of my studies. _[R for Data Science](https://r4ds.had.co.nz/)_ is too clear and too free for it to not be the first resource for anyone interested in learning R. I would read that book and do every exercise. The I would read it again and probably do every exercise again. I would print off every [cheat sheet](https://www.rstudio.com/resources/cheatsheets/) and tape them to my wall. Then I would begin mastering one of the tools: data visualization, data reporting, or modeling. Finally, I would learn base R, which is still important, from a book like Norm Matloff's _[The Art of R Programming](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843)_.
 
-My biggest challenge learning R was that I was isolated. For more than a year, I didn't know any other serious R programmers. That's like trying to learn Cantonese without knowing anyone who speaks Cantonese. I have three solutions. 
+My biggest challenge learning R was that I was isolated. For more than a year, I didn't know any other serious R programmers. That's like trying to learn Cantonese without knowing anyone who speaks Cantonese.
 
 In hindsight, I should have worked harder to find other R programmers. This is easier today than ever before because of sites like Meetup and [RStudio Community](https://community.rstudio.com/). Universities are also embracing R, so I would probably reach out to professors or administrators at my university. 
 
 To augment my search, I would have started following the #rstats tag on Twitter much sooner. It is the most interesting, generous, and civil corner of Twitter and is a great way to get to know the community. 
 
 Finally, I would have started an RSS feed for R blogs. Blogdown sparked an explosion of blogs in the R community, but there were plenty of valuable blogs in 2015 that would have helped my R programming. I would follow them all, start reading lots of posts, finish only a handful of posts, and bookmark the ones that solve my problems.
-
