@@ -7,26 +7,26 @@ title = "Vitae"
 
 ## SUMMARY OF EXPERIENCE
 
-Research professional with experience navigating the crossroads of data and policy, and mapping the impacts
+Data scientist with experience navigating the crossroads of data and policy, and mapping the impacts
 of laws and budgets on Americans with low and moderate incomes. Published writer finding insights and solving
 problems using a breadth of data sources, descriptive and inferential statistics, and a foundation of economic
 theory. Exemplary work featured in professional and popular publications and recognized through awards.
 
 ## WORK EXPERIENCE
 
-**The Urban Institute Program on Retirement Policy - Research Analyst (2016–Present)**
+**The Urban Institute Program on Retirement Policy - Data Scientist (2019–Present)**
 
-* Develop microsimulation models for retirement policy analysis. Research topics include the effects of state-mandated employer pensions, Social Security reform, pension reform, and home equity accumulation 
-* Create interactive web visualizations for disseminating DYNASIM output to a wide audience  
-* Develop DYNASIM4 by preparing input data, re-estimating equations, and updating the tax model 
-* Validate model output using alternative data sources, other model output, and myriad graphics 
-* Lead the Urban Institute R Users Group and consult with researchers across the Urban Institute on projects involving R programming 
+* Develop DYNASIM4 and MINT8 microsimulation models for retirement policy analysis. Research topics include the effects of state-mandated employer pensions, Social Security reform, pension reform, and home equity accumulation 
+* Create interactive web visualizations
+* Lead the Urban Institute R Users Group and consult with researchers across the Urban Institute on projects involving R programming
+* Build open source tools in R
 * Train Urban Institute researchers how to use R, R Markdown, and R Shiny 
 
-**Commonwealth Institute for Fiscal Analysis - Research Assistant (2015–2016)**
+**The Urban Institute - Research Analyst (2018–2019)**
 
-* Provided research assistance and analytical support for timely, credible, and accessible analysis of state policy with a focus on low and moderate-income Virginians. Topics included education funding formulas, earned income tax credit take-up, Section 1115 Medicaid waivers, immigration, cash balance pension plans, R\&D tax credits, labor conditions, and the felony theft threshold 
-* Wrote reports and memos, crafted persuasive one-pagers, and fact-checked a range of publications 
+**The Urban Institute - Research Assistant (2016–2018)**
+
+**Commonwealth Institute for Fiscal Analysis - Research Assistant (2015–2016)**
 
 **Virginia Resources Authority - Finance Intern (2015)**
 
@@ -34,28 +34,28 @@ theory. Exemplary work featured in professional and popular publications and rec
 
 ## EDUCATION
 
-**Bachelor of Science with Honors**
-Virginia Commonwealth University (December 2014)
+**Master of Science (in progress)**
 
-* **Major:** Economics
+* Mathematics and Statistics
+* Georgetown University
+
+**Bachelor of Science with Honors**
+
+* Economics
+* Virginia Commonwealth University (2014)
 * Summa Cum Laude (3.97 GPA)
 
-Relevant Coursework: Econometrics (graduate level), Microeconomic and Macroeconomic Theory, Managerial Economics, Game Theory, I/O Economics, Labor Economics, Fed Challenge, Calculus, Statistics 
-
 **Bachelor of Arts with Honors**
-Virginia Commonwealth University (December 2014)
 
-* **Major:** Music
+* Music
+* Virginia Commonwealth University (2014)
 * Summa Cum Laude (3.97 GPA)  
 
 **Certificate: Social Policies and Pragmatic Tolerance in Amsterdam**
-Universitet van Amsterdam (Summer 2013)
+Universitet van Amsterdam (2013)
  
-**Data Science Specialization**
+**[Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)**
 Coursera (in progress)
-
-A nine class massive open online course offered by biostatistics faculty from the Johns Hopkins University Bloomberg School of Public Health. Courses: The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products
-
 
 ## POLICY REPORTS
 
@@ -96,7 +96,7 @@ VCU Honors College. It is the sole award granted by the college
 
 * LaTeX
 * SAS
-* Front-end web development
+* front-end web development
 * microsimulation
 * data imputation
 * Bash/command line
