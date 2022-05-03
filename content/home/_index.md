@@ -7,6 +7,4 @@ title = "Home"
 
 ![](/img/jacksons-wedding.jpg)
 
-Hi! I am Aaron R. Williams and I am a Data Scientist at the [Urban Institute](https://www.urban.org/), an R educator, and a sometimes saxophonist. 
-
-
+Hi! I am Aaron R. Williams and I am a Senior Data Scientist at the [Urban Institute](https://www.urban.org/) and an Adjunct Professor in the [McCourt School of Public Policy](https://mccourt.georgetown.edu/) at Georgetown University. 
