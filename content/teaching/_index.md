@@ -5,11 +5,9 @@ title = "Teaching"
 
 +++
 
-The R programming language is a powerful tool for data analysis that can help people with experiences ranging from student to CEO, and fields ranging from academic to corporate, find meaning in their data.  
+I offer on-site, virtual, and hybrid half-, full-, and multi-day workshops in R programming, data visualization, and creating R tools for organizations. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. _All workshops and workshop examples can be adjusted to meet the specific needs of your organization._
 
-I offer three unique half- or full-day on-site workshops featuring introduction to R, data visualization in R, and creating R tools for organizations. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. _All workshops and workshop examples can be adjusted to meet the specific needs of your organization._
-
-Workshops begin with a clear motivation, followed by an explanation of the approach and code, and end with hands-on examples. Attendees will understand the why and the how of approaching analytical problems with a programming language like R.  
+Workshops are designed around hands-on examples that demonstrate theory and practice. Attendees will understand the why and the how of approaching analytic problems with a programming language like R.  
 
 I bring my experience as a data scientist and public policy researcher to your data. We won’t just copy and paste code until a sensible answer appears. We will work to understand each decision so that attendees leave prepared to tackle questions that haven’t been asked and problems that haven’t yet appeared.  
 
@@ -24,15 +22,11 @@ R is known for its ability to efficiently and effectively visualize data. In thi
 ### Creating R Tools for Organizations 
 
 Organizations can create value by leveraging the power of R at an institutional level. This workshop will introduce and outline how tools like R packages, R markdown, R Shiny, and ggplot2 can be used by organizations to find new insights, consistently communicate their findings, and use programming to get rid of mundane and repetitive tasks. Approaches include creating custom tools and R packages to increase productivity, designing custom ggplot2 themes that match organizational branding, and creating documents and applications that can be used to regularly generate reports. Attendees will leave understanding how R can be used at the organizational level and how to get started building tools for their organization.  
-
-### Other Details 
+#### Other Details 
 
 I will send data and code files to attendees prior to the workshop. These materials will be sent via email and a shared cloud-based storage service such as Google Drive or Dropbox. 
 
- 
+### Prior Workshops
 
- 
-
-
-
-
+* [American Statistical Association Traveling Course Series](https://community.amstat.org/coc/chapterresources/travelingcourse/datavisualization)
+* [Introduction to R with Jon Schwabish](https://policyviz.com/services/workshops/public-workshops/)
