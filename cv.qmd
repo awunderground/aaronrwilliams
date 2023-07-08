@@ -5,4 +5,4 @@ about:
   template: jolla
 ---
 
-
+[Please visit GitHub to see my full CV.](https://github.com/awunderground/aaronrwilliams/blob/master/williams_aaron_cv.pdf)
