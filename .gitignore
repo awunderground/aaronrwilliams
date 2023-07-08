@@ -25,4 +25,3 @@ vignettes/*.pdf
 # Blogdown folder
 public/
 /.quarto/
-/_site/

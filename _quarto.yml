@@ -14,8 +14,6 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
-execute:
-  freeze: auto        
 format:
   html:
     theme: minty
