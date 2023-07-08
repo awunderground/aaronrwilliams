@@ -24,3 +24,5 @@ vignettes/*.pdf
 *.knit.md
 # Blogdown folder
 public/
+/.quarto/
+/_site/
