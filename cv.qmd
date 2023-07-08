@@ -1,6 +1,5 @@
 ---
-title: "About"
-image: profile.jpg
+title: "CV"
 about:
   template: jolla
 ---
