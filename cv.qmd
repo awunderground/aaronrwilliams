@@ -3,9 +3,6 @@ title: "About"
 image: profile.jpg
 about:
   template: jolla
-  links:
-    - icon: rss
-      href: blog.xml
 ---
 
 
