@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aaronrwilliams.com/index.html</loc>
-    <lastmod>2025-01-26T01:26:23.839Z</lastmod>
+    <loc>https://aaronrwilliams.com/talks/talks.html</loc>
+    <lastmod>2025-01-26T02:32:42.436Z</lastmod>
   </url>
   <url>
-    <loc>https://aaronrwilliams.com/teaching.html</loc>
-    <lastmod>2025-01-26T01:26:23.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aaronrwilliams.com/about.html</loc>
-    <lastmod>2025-01-26T01:26:22.582Z</lastmod>
+    <loc>https://aaronrwilliams.com/blog/blog.html</loc>
+    <lastmod>2025-01-26T02:32:41.852Z</lastmod>
   </url>
   <url>
     <loc>https://aaronrwilliams.com/cv.html</loc>
-    <lastmod>2025-01-26T01:26:22.870Z</lastmod>
+    <lastmod>2025-01-26T02:32:41.162Z</lastmod>
   </url>
   <url>
-    <loc>https://aaronrwilliams.com/blog.html</loc>
-    <lastmod>2025-01-26T01:26:23.542Z</lastmod>
+    <loc>https://aaronrwilliams.com/index.html</loc>
+    <lastmod>2025-01-26T02:32:40.603Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aaronrwilliams.com/about.html</loc>
+    <lastmod>2025-01-26T02:32:40.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aaronrwilliams.com/workshops.html</loc>
+    <lastmod>2025-01-26T02:32:41.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aaronrwilliams.com/blog/2025-01-15/index.html</loc>
+    <lastmod>2025-01-26T02:32:42.151Z</lastmod>
   </url>
 </urlset>

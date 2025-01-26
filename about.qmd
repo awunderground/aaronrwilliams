@@ -1,8 +1,6 @@
 ---
 title: "About"
 image: images/williams-aaron-image.jpeg
-about:
-  template: jolla
 ---
 
 I believe in the power of evidence and understanding to change lives. But building that evidence is tough work. Through trial and error, I've developed a firm belief and demonstrated expertise in code-first data analysis. And, I am passionate about sharing industry leading techniques and tools for code-first data analysis. 
