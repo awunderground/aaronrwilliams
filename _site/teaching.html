@@ -63,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -104,11 +104,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/awunderground" rel="" target=""><i class="bi bi-twitter" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/aaronrwilliams100/" rel="" target=""><i class="bi bi-LinkedIn" role="img">
 </i> 
  <span class="menu-text"></span></a>
@@ -124,7 +119,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+  <ul>
+  <li><a href="#what-i-offer" id="toc-what-i-offer" class="nav-link active" data-scroll-target="#what-i-offer">What I Offer</a>
+  <ul class="collapse">
+  <li><a href="#introduction-to-r" id="toc-introduction-to-r" class="nav-link" data-scroll-target="#introduction-to-r">Introduction to R</a></li>
+  <li><a href="#data-visualization-in-r" id="toc-data-visualization-in-r" class="nav-link" data-scroll-target="#data-visualization-in-r">Data Visualization in R</a></li>
+  <li><a href="#creating-r-tools-for-organizations" id="toc-creating-r-tools-for-organizations" class="nav-link" data-scroll-target="#creating-r-tools-for-organizations">Creating R Tools for Organizations</a></li>
+  </ul></li>
+  <li><a href="#other-details" id="toc-other-details" class="nav-link" data-scroll-target="#other-details">Other Details</a></li>
+  <li><a href="#prior-teaching-experience" id="toc-prior-teaching-experience" class="nav-link" data-scroll-target="#prior-teaching-experience">Prior Teaching Experience</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <div class="quarto-about-jolla">
  <header id="title-block-header" class="quarto-title-block default">
@@ -134,6 +143,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
+
 <section id="what-i-offer" class="level2">
 <h2 data-anchor-id="what-i-offer">What I Offer</h2>
 <p>I offer a range of R and statistical workshops and courses in academic, not-for-profit and corporate setting. I offer on-site, virtual, and hybrid half-, full-, and multi-day workshops in R programming, data visualization, predictive modeling, and data privacy. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. <em>All workshops and workshop examples can be adjusted to meet the specific needs of your organization.</em></p>
@@ -394,6 +404,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/aaronrwilliams\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

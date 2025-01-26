@@ -104,11 +104,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/awunderground" rel="" target=""><i class="bi bi-twitter" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/aaronrwilliams100/" rel="" target=""><i class="bi bi-LinkedIn" role="img">
 </i> 
  <span class="menu-text"></span></a>
@@ -137,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header><main class="content" id="quarto-document-content">
 <p>I believe in the power of evidence and understanding to change lives. But building that evidence is tough work. Through trial and error, I’ve developed a firm belief and demonstrated expertise in code-first data analysis. And, I am passionate about sharing industry leading techniques and tools for code-first data analysis.</p>
-<p>My name is Aaron R. Williams and I am a data scientist and public policy professional. I am a Senior Data Scientist at the <a href="https://www.urban.org/">Urban Institute</a>, an Adjunct Professor in the <a href="https://mccourt.georgetown.edu/">McCourt School of Public Policy</a> at Georgetown University, and a freelance statistics and data science instructor.</p>
+<p>My name is Aaron R. Williams and I am a data scientist and public policy professional. I am Lead Data Scientist for Statistical Computing at the <a href="https://www.urban.org/">Urban Institute</a>, an Adjunct Professor in the <a href="https://mccourt.georgetown.edu/">McCourt School of Public Policy</a> at Georgetown University, and a freelance statistics and data science instructor.</p>
 
 
 </main>  
@@ -367,6 +362,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/aaronrwilliams\.com");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
