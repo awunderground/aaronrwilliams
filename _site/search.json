@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I believe in the power of evidence and understanding to change lives. But building that evidence is tough work. Through trial and error, I’ve developed a firm belief and demonstrated expertise in code-first data analysis. And, I am passionate about sharing industry leading techniques and tools for code-first data analysis.\nMy name is Aaron R. Williams and I am a data scientist and public policy professional. I am a Senior Data Scientist at the Urban Institute, an Adjunct Professor in the McCourt School of Public Policy at Georgetown University, and a freelance statistics and data science instructor."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -42,10 +28,24 @@
     "text": "Prior Teaching Experience\n\nLeader of the Urban Institute R Users Group.\nAdjunct Professor in the McCourt School of Public Policy at Georgetown University.\nAmerican Statistical Association Traveling Course Series Instructor.\nInstructor with PolicyViz."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I believe in the power of evidence and understanding to change lives. But building that evidence is tough work. Through trial and error, I’ve developed a firm belief and demonstrated expertise in code-first data analysis. And, I am passionate about sharing industry leading techniques and tools for code-first data analysis.\nMy name is Aaron R. Williams and I am a data scientist and public policy professional. I am Lead Data Scientist for Statistical Computing at the Urban Institute, an Adjunct Professor in the McCourt School of Public Policy at Georgetown University, and a freelance statistics and data science instructor."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
     "text": "Please visit GitHub to see my full CV."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
   }
 ]

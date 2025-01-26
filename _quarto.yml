@@ -1,5 +1,14 @@
 project:
   type: website
+  render:
+    - "about.qmd"
+    - "cv.qmd"
+    - "teaching.qmd"
+    - "blog.qmd"
+    - "blog/**/*.qmd"
+    - "talks/**/*.qmd"
+    - "index.qmd"
+
 
 website:
   title: "Aaron R. Williams"
@@ -14,14 +23,16 @@ website:
     right:
       - icon: github
         href: https://github.com/awunderground
-      - icon: twitter
-        href: https://twitter.com/awunderground
       - icon: LinkedIn
         href: https://www.linkedin.com/in/aaronrwilliams100/        
 format:
   html:
     theme: minty
+    toc: true
+    link-external-newwindow: true
     css: styles.css
 
+editor: source
 
-
+execute:
+  freeze: auto
