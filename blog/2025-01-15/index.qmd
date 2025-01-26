@@ -1,0 +1,12 @@
+---
+date: "2025-01-25"
+categories: ["teaching"]
+summary: ''
+title: Ten Semesters at Georgetown University
+---
+
+I recently started my tenth semester teaching in the [McCourt School of Public Policy at Georgetown University](https://mccourt.georgetown.edu/). My first job after graduating from Virginia Commonwealth University was tutoring athletes in statistics and economics. Since then, teaching has always been one of the most rewarding activities of my life. 
+
+I'm lucky to work with so many great professors at Georgetown including my colleague from the Urban Institute, Alena Stern. 
+
+Alena, Gabe Morrison, and I have organized our course notes from Intro to Data Science and Advanced Data Science into a Quarto book that will always be freely available online ([website](https://awunderground.github.io/data-science-for-public-policy2/), [source files](https://github.com/awunderground/data-science-for-public-policy2)). It's a work-in-progress but I hope you find it enjoyable and useful!

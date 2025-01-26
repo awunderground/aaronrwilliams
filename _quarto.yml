@@ -1,14 +1,14 @@
 project:
   type: website
   render:
+    - "index.qmd"
     - "about.qmd"
     - "cv.qmd"
-    - "teaching.qmd"
-    - "blog.qmd"
+    - "workshops.qmd"
+    - "blog/blog.qmd"
     - "blog/**/*.qmd"
+    - "talks/talk.qmd"
     - "talks/**/*.qmd"
-    - "index.qmd"
-
 
 website:
   title: "Aaron R. Williams"
@@ -18,8 +18,8 @@ website:
     left:
       - about.qmd
       - cv.qmd
-      - teaching.qmd
-      - blog.qmd
+      - workshops.qmd
+      - blog/blog.qmd
     right:
       - icon: github
         href: https://github.com/awunderground
@@ -30,7 +30,7 @@ format:
     theme: minty
     toc: true
     link-external-newwindow: true
-    css: styles.css
+    css: styles.scss
 
 editor: source
 

@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "talks/talks.html",
+    "href": "talks/talks.html",
+    "title": "Blog",
     "section": "",
-    "text": "I offer a range of R and statistical workshops and courses in academic, not-for-profit and corporate setting. I offer on-site, virtual, and hybrid half-, full-, and multi-day workshops in R programming, data visualization, predictive modeling, and data privacy. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. All workshops and workshop examples can be adjusted to meet the specific needs of your organization.\nWorkshops are designed around hands-on examples that demonstrate theory and practice. Attendees will understand the why and the how of approaching analytic problems with a programming language like R.\nI bring my experience as a data scientist and public policy professional to your data. We won’t just copy and paste code until a sensible answer appears. We will work to understand each decision so that attendees leave prepared to tackle questions that haven’t been asked and problems that haven’t yet appeared.\n\n\nIn this workshop, attendees will install and open R, learn the basic code structure and syntax, and conduct hands-on analysis of real data. This workshop will outline specific methods for project organization, data management, summary statistics, and data visualizations. Attendees will have ample opportunities to put this knowledge to work with hands-on examples.\n\n\n\nR is known for its ability to efficiently and effectively visualize data. In this workshop, attendees will learn a comprehensive set of tools for programmatically creating static data visualizations in R using a package called ggplot2. The workshop will teach the theory, called the “grammar of graphics”, behind ggplot2. From this theory, attendees will learn to code data visualization in R. Learning the theory and the code will help attendees build better data visualizations, understand how the components of a data visualization come together, and master and retain ggplot2.\n\n\n\nOrganizations can create value by leveraging the power of R at an institutional level. This workshop will introduce and outline how tools like R packages, R markdown, R Shiny, and ggplot2 can be used by organizations to find new insights, consistently communicate their findings, and use programming to get rid of mundane and repetitive tasks. Approaches include creating custom tools and R packages to increase productivity, designing custom ggplot2 themes that match organizational branding, and creating documents and applications that can be used to regularly generate reports. Attendees will leave understanding how R can be used at the organizational level and how to get started building tools for their organization."
+    "text": "No matching items"
   },
   {
-    "objectID": "teaching.html#what-i-offer",
-    "href": "teaching.html#what-i-offer",
-    "title": "Teaching",
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "I offer a range of R and statistical workshops and courses in academic, not-for-profit and corporate setting. I offer on-site, virtual, and hybrid half-, full-, and multi-day workshops in R programming, data visualization, predictive modeling, and data privacy. Workshop attendees will learn practical R skills that will improve the quality of their work and discover approaches to programming away the mundane. All workshops and workshop examples can be adjusted to meet the specific needs of your organization.\nWorkshops are designed around hands-on examples that demonstrate theory and practice. Attendees will understand the why and the how of approaching analytic problems with a programming language like R.\nI bring my experience as a data scientist and public policy professional to your data. We won’t just copy and paste code until a sensible answer appears. We will work to understand each decision so that attendees leave prepared to tackle questions that haven’t been asked and problems that haven’t yet appeared.\n\n\nIn this workshop, attendees will install and open R, learn the basic code structure and syntax, and conduct hands-on analysis of real data. This workshop will outline specific methods for project organization, data management, summary statistics, and data visualizations. Attendees will have ample opportunities to put this knowledge to work with hands-on examples.\n\n\n\nR is known for its ability to efficiently and effectively visualize data. In this workshop, attendees will learn a comprehensive set of tools for programmatically creating static data visualizations in R using a package called ggplot2. The workshop will teach the theory, called the “grammar of graphics”, behind ggplot2. From this theory, attendees will learn to code data visualization in R. Learning the theory and the code will help attendees build better data visualizations, understand how the components of a data visualization come together, and master and retain ggplot2.\n\n\n\nOrganizations can create value by leveraging the power of R at an institutional level. This workshop will introduce and outline how tools like R packages, R markdown, R Shiny, and ggplot2 can be used by organizations to find new insights, consistently communicate their findings, and use programming to get rid of mundane and repetitive tasks. Approaches include creating custom tools and R packages to increase productivity, designing custom ggplot2 themes that match organizational branding, and creating documents and applications that can be used to regularly generate reports. Attendees will leave understanding how R can be used at the organizational level and how to get started building tools for their organization."
-  },
-  {
-    "objectID": "teaching.html#other-details",
-    "href": "teaching.html#other-details",
-    "title": "Teaching",
-    "section": "Other Details",
-    "text": "Other Details\nI will send data and code files to attendees prior to the workshop. These materials will be sent via email and a shared cloud-based storage service such as Google Drive or Dropbox."
-  },
-  {
-    "objectID": "teaching.html#prior-teaching-experience",
-    "href": "teaching.html#prior-teaching-experience",
-    "title": "Teaching",
-    "section": "Prior Teaching Experience",
-    "text": "Prior Teaching Experience\n\nLeader of the Urban Institute R Users Group.\nAdjunct Professor in the McCourt School of Public Policy at Georgetown University.\nAmerican Statistical Association Traveling Course Series Instructor.\nInstructor with PolicyViz."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I believe in the power of evidence and understanding to change lives. But building that evidence is tough work. Through trial and error, I’ve developed a firm belief and demonstrated expertise in code-first data analysis. And, I am passionate about sharing industry leading techniques and tools for code-first data analysis.\nMy name is Aaron R. Williams and I am a data scientist and public policy professional. I am Lead Data Scientist for Statistical Computing at the Urban Institute, an Adjunct Professor in the McCourt School of Public Policy at Georgetown University, and a freelance statistics and data science instructor."
+    "text": "Ten Semesters at Georgetown University\n\n\n\n\n\n\n\n\n\n\n\n\n2025-01-25\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -42,10 +21,52 @@
     "text": "Please visit GitHub to see my full CV."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "No matching items"
+    "text": "I believe in the power of evidence and understanding to change lives. But building that evidence is tough work. Through trial and error, I’ve developed a firm belief and demonstrated expertise in code-first data analysis. And, I am passionate about sharing industry leading techniques and tools for code-first data analysis.\nMy name is Aaron R. Williams and I am a data scientist and public policy professional. I am Lead Data Scientist for Statistical Computing at the Urban Institute, an Adjunct Professor in the McCourt School of Public Policy at Georgetown University, and a freelance statistics and data science instructor."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "I offer on-site, hybrid, and virtual half-, full-, and multi-day workshops about R, data visualization, data science, and statistics. Workshop attendees will learn practical data skills that will improve the quality of their work and build their confidence with technical tools like programming. All workshops and workshop examples can be adjusted to meet the specific needs of your organization.\nWorkshops are designed around hands-on examples that demonstrate theory and practice. Attendees will understand the why and the how of approaching analytic problems with the data science toolkit.\nI bring my experience as a data scientist to your data. We won’t just copy and paste code until a sensible answer appears. We will work to understand each decision so that attendees leave prepared to tackle questions that haven’t been asked and problems that haven’t yet appeared."
+  },
+  {
+    "objectID": "workshops.html#what-i-offer",
+    "href": "workshops.html#what-i-offer",
+    "title": "Workshops",
+    "section": "",
+    "text": "I offer on-site, hybrid, and virtual half-, full-, and multi-day workshops about R, data visualization, data science, and statistics. Workshop attendees will learn practical data skills that will improve the quality of their work and build their confidence with technical tools like programming. All workshops and workshop examples can be adjusted to meet the specific needs of your organization.\nWorkshops are designed around hands-on examples that demonstrate theory and practice. Attendees will understand the why and the how of approaching analytic problems with the data science toolkit.\nI bring my experience as a data scientist to your data. We won’t just copy and paste code until a sensible answer appears. We will work to understand each decision so that attendees leave prepared to tackle questions that haven’t been asked and problems that haven’t yet appeared."
+  },
+  {
+    "objectID": "workshops.html#teaching-experience",
+    "href": "workshops.html#teaching-experience",
+    "title": "Workshops",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n10 semesters teaching graduate students in the McCourt School of Public Policy\n16 traveling courses through the American Statistical Association’s Council of Chapters Traveling Courses\nShort courses at the Joint Statistical Meetings (Toronto, Canada and Portland, OR), Symposium on Data Science and Statistics (Pittsburgh, PA), and International Conference on Establishment Statistics (Glasgow, Scotland)\nHalf- and full-day courses around the world and across the country with PolicyViz"
+  },
+  {
+    "objectID": "workshops.html#typical-workshops",
+    "href": "workshops.html#typical-workshops",
+    "title": "Workshops",
+    "section": "Typical Workshops",
+    "text": "Typical Workshops\nAll workshops and workshop examples can be adjusted to meet the specific needs of your organization.\n\nIntroduction to R\nIn this workshop, attendees will install and open R, learn the basic code structure and syntax, and conduct hands-on analysis of real data. This workshop will outline specific methods for project organization, data management, summary statistics, and data visualizations. Attendees will have ample opportunities to put this knowledge to work with hands-on examples.\n\n\nData Visualization in R\nR is known for its ability to efficiently and effectively visualize data. In this workshop, attendees will learn a comprehensive set of tools for programmatically creating static data visualizations in R using a package called ggplot2. The workshop will teach the theory, called the “grammar of graphics”, behind ggplot2. From this theory, attendees will learn to code data visualization in R. Learning the theory and the code will help attendees build better data visualizations, understand how the components of a data visualization come together, and master and retain ggplot2.\n\n\nCreating R Tools for Organizations\nOrganizations can create value by leveraging the power of R at an institutional level. This workshop will introduce and outline how tools like R packages, R markdown, R Shiny, and ggplot2 can be used by organizations to find new insights, consistently communicate their findings, and use programming to get rid of mundane and repetitive tasks. Approaches include creating custom tools and R packages to increase productivity, designing custom ggplot2 themes that match organizational branding, and creating documents and applications that can be used to regularly generate reports. Attendees will leave understanding how R can be used at the organizational level and how to get started building tools for their organization."
+  },
+  {
+    "objectID": "workshops.html#other-details",
+    "href": "workshops.html#other-details",
+    "title": "Workshops",
+    "section": "Other Details",
+    "text": "Other Details\nI will send data and code files to attendees prior to the workshop. These materials will be sent via email and a shared cloud-based storage service such as Google Drive or Dropbox."
+  },
+  {
+    "objectID": "blog/2025-01-15/index.html",
+    "href": "blog/2025-01-15/index.html",
+    "title": "Ten Semesters at Georgetown University",
+    "section": "",
+    "text": "I recently started my tenth semester teaching in the McCourt School of Public Policy at Georgetown University. My first job after graduating from Virginia Commonwealth University was tutoring athletes in statistics and economics. Since then, teaching has always been one of the most rewarding activities of my life.\nI’m lucky to work with so many great professors at Georgetown including my colleague from the Urban Institute, Alena Stern.\nAlena, Gabe Morrison, and I have organized our course notes from Intro to Data Science and Advanced Data Science into a Quarto book that will always be freely available online (website, source files). It’s a work-in-progress but I hope you find it enjoyable and useful!"
   }
 ]

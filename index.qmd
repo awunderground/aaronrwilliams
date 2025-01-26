@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Data Science for Public Policy"
+image: images/williams-aaron-image.jpeg
 about:
   template: jolla
   links:
