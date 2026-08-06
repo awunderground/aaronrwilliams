@@ -11,7 +11,7 @@
     "href": "blog/blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Ten Semesters at Georgetown University\n\n\n\n\n\n\n\n\n\n\n\n\n2025-01-25\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Ten Semesters at Georgetown University\n\n\n\n\n\n\n\n\n\n\n\n2025-01-25\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -61,6 +61,13 @@
     "title": "Workshops",
     "section": "Other Details",
     "text": "Other Details\nI will send data and code files to attendees prior to the workshop. These materials will be sent via email and a shared cloud-based storage service such as Google Drive or Dropbox."
+  },
+  {
+    "objectID": "workshops.html#previous-public-workshops",
+    "href": "workshops.html#previous-public-workshops",
+    "title": "Workshops",
+    "section": "Previous Public Workshops",
+    "text": "Previous Public Workshops\n\nReproducible Research Bootcamp\n2024 Joint Statistical Meetings\nPortland, Oregon\nThis course aims to equip researchers with fundamental tools for reproducible research. It will introduce Quarto, Git, and GitHub; coding best practices; and environment management with renv through hands-on exercises and clear resources. The course focuses on R but the content is broadly applicable\n\n\nNavigating the Privacy-Utility Tradeoff: An Introduction to Data Privacy Techniques (Introductory Level)\n2024 International Conference on Establishment Statistics\nGlasgow, Scotland\nThis course will provide an overview of current data privacy methodology, focusing on the generation of synthetic data and application of differentially private methods. Through examinations of case studies, attendees will learn to apply data privacy techniques and evaluate the resulting disclosure risk and data utility.\n\n\nIntroduction to Data Privacy and Data Synthesis Techniques\n2023 Joint Statistical Meetings\nToronto, Ontario\nWe will provide an overview of current data privacy methodology, focusing on the generation of synthetic data. Through examinations of case studies and hands-on exercises, you will learn to apply data privacy techniques and evaluate the resulting disclosure risk and data utility. You should have basic R programming experience."
   },
   {
     "objectID": "blog/2025-01-15/index.html",
