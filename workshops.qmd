@@ -42,6 +42,7 @@ I will send data and code files to attendees prior to the workshop. These materi
 ### Reproducible Research Bootcamp
 
 [2024 Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2024/pdfs/JSM2024-RegistrationGuide.pdf)
+
 Portland, Oregon
 
 This course aims to equip researchers with fundamental tools for reproducible research. It will introduce Quarto, Git, and GitHub; coding best practices; and environment management with renv through hands-on exercises and clear resources. The course focuses on R but the content is broadly applicable
@@ -49,6 +50,7 @@ This course aims to equip researchers with fundamental tools for reproducible re
 ### Navigating the Privacy-Utility Tradeoff: An Introduction to Data Privacy Techniques (Introductory Level)
 
 [2024 International Conference on Establishment Statistics](https://ww2.amstat.org/meetings/ices/2024/shortcourses.cfm)
+
 Glasgow, Scotland
 
 This course will provide an overview of current data privacy methodology, focusing on the generation of synthetic data and application of differentially private methods. Through examinations of case studies, attendees will learn to apply data privacy techniques and evaluate the resulting disclosure risk and data utility.
