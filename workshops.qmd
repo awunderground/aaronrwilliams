@@ -12,10 +12,10 @@ I bring my experience as a data scientist to your data. We won’t just copy and
 
 ## Teaching Experience
 
-- 10 semesters teaching graduate students in the [McCourt School of Public Policy](https://mccourt.georgetown.edu/)
+- 11 semesters teaching graduate students in the [McCourt School of Public Policy](https://mccourt.georgetown.edu/)
 - 16 traveling courses through the [American Statistical Association's Council of Chapters Traveling Courses](https://community.amstat.org/coc/chapterresources/travelingcourse)
-- Short courses at the Joint Statistical Meetings (Toronto, Canada and Portland, OR), Symposium on Data Science and Statistics (Pittsburgh, PA), and International Conference on Establishment Statistics (Glasgow, Scotland)
-- Half- and full-day courses around the world and across the country with [PolicyViz](https://policyviz.com/#1612198666662-767a3ef9-d28e)
+- Public short courses at the Joint Statistical Meetings, Symposium on Data Science and Statistics, and International Conference on Establishment Statistics (Glasgow, Scotland)
+- Private half- and full-day courses around the world and across the country with [PolicyViz](https://policyviz.com/#1612198666662-767a3ef9-d28e)
 
 ## Typical Workshops
 
